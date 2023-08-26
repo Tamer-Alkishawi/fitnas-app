@@ -1,4 +1,4 @@
-# project_one
+# fitnas
 
 A new Flutter project.
 
